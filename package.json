@@ -1,0 +1,25 @@
+{
+    "name": "com.wahib.pathnpc",
+    "version": "1.0.0",
+    "displayName": "Path NPC Tool",
+    "description": "A visual waypoint-based NPC pathing system for Unity with a custom editor for interactive path creation, visualization, and management using NavMesh.",
+    "unity": "2021.3",
+    "keywords": [
+        "npc",
+        "pathfinding",
+        "waypoint",
+        "navmesh",
+        "ai",
+        "editor-tool"
+    ],
+    "author": {
+        "name": "wahib"
+    },
+    "samples": [
+        {
+            "displayName": "Basic Setup",
+            "description": "A minimal example showing how to set up an NPC with paths and waypoints.",
+            "path": "Samples~/BasicSetup"
+        }
+    ]
+}

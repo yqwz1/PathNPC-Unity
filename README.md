@@ -56,7 +56,7 @@
 2. Click **+** > **Add package from git URL...**
 3. Paste:
    ```
-   https://github.com/YOUR_USERNAME/PathNPC-Unity.git
+   https://github.com/yqwz1/PathNPC-Unity.git
    ```
 4. Click **Add**
 

@@ -1,10 +1,12 @@
-# Path NPC Tool for Unity
+<div align="center">
+  <img src="Documentation~/images/logo.svg" alt="Path NPC Tool Logo" width="100"/>
+  <h1>Path NPC Tool for Unity</h1>
+  <p>A visual, waypoint-based NPC pathing system for Unity. Design NPC patrol routes directly in the Scene View with an interactive custom editor — no code required to set up paths.</p>
 
-A visual, waypoint-based NPC pathing system for Unity. Design NPC patrol routes directly in the Scene View with an interactive custom editor -- no code required to set up paths.
-
-![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![NavMesh](https://img.shields.io/badge/Requires-NavMesh-orange)
+  ![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity)
+  ![License](https://img.shields.io/badge/License-MIT-blue)
+  ![NavMesh](https://img.shields.io/badge/Requires-NavMesh-orange)
+</div>
 
 ---
 
@@ -20,6 +22,19 @@ A visual, waypoint-based NPC pathing system for Unity. Design NPC patrol routes 
 - **Inline Rename** -- Double-click a path name in the inspector to rename it
 - **Full Undo Support** -- All waypoint creation and deletion is undo-safe
 - **NavMesh Integration** -- Built on Unity's NavMeshAgent for reliable pathfinding
+
+---
+
+## Screenshots
+
+<div align="center">
+  <img src="Documentation~/images/screenshot-inspector.png" alt="Path NPC Inspector" width="380"/>
+  &nbsp;&nbsp;
+  <img src="Documentation~/images/screenshot-sceneview.png" alt="Scene View Waypoint Placement" width="700"/>
+</div>
+
+**Left:** The custom inspector — manage paths, waypoints, wait times, and colors from one panel.  
+**Right:** Click-to-place waypoints directly in the Scene View with live HUD feedback.
 
 ---
 
